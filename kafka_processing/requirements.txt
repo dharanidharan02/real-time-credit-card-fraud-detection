@@ -1,0 +1,9 @@
+Flask
+kafka-python
+paramiko
+pandas
+python-dotenv
+psycopg2-binary
+streamlit
+scikit-learn
+joblib

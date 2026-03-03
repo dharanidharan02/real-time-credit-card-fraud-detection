@@ -1,0 +1,8 @@
+Flask
+joblib
+pandas
+kafka-python
+psycopg2-binary
+paramiko
+python-dotenv
+
