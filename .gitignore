@@ -1,0 +1,16 @@
+# Secrets
+*.env
+sftp.env
+
+# Python
+__pycache__/
+*.pyc
+
+# VS / Build
+.vs/
+obj/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
